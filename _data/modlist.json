@@ -1,109 +1,49 @@
 [
   {
-    "author": "Oskar Potocki, xrushha and SmashPhil",
-    "name": "Vanilla Apparel Expanded — Accessories",
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "explodoboy",
+    "name": "Ambition of the Cosmic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "explodoboy",
+    "name": "Ambition of the Cosmic: True Pinnacle of Creation",
     "steamId": null,
     "version": null
   },
   {
     "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
+    "name": "Vanilla Armour Expanded",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Laser",
+    "author": "Bambaryła, ThatBartGuy and soldierGG1",
+    "name": "Beyond the Ambition of the Cosmic",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
-    "name": "Vanilla Weapons Expanded - Coilguns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Weapons Expanded - Heavy Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Quickdraw",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Luizi and xrushha",
-    "name": "Vanilla Weapons Expanded - Frontier",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Grenades",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Non-Lethal",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Books Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Cooking Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "xrushha and HohenHeizen",
-    "name": "Anima Animals - Community Pack (temp)[HH]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "xrushha",
-    "name": "Anima Gear",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Meltup",
-    "name": "Beautiful Outdoors",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mlie",
-    "name": "Cannibal and Insect Meals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended Armory",
+    "author": "dracoix",
+    "name": "Door Mat",
     "steamId": null,
     "version": null
   },
   {
     "author": "telardo",
     "name": "DragSelect",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Rimkit",
     "steamId": null,
     "version": null
   },
@@ -120,50 +60,20 @@
     "version": null
   },
   {
-    "author": "Orion",
-    "name": "Hospitality",
+    "author": "Sarg and Owlchemist",
+    "name": "Giddy-Up! Add-on: Animal Saddles",
     "steamId": null,
     "version": null
   },
   {
-    "author": "OskarPotocki, Atlas and Kikohi",
-    "name": "Vanilla Furniture Expanded",
+    "author": "Killathon",
+    "name": "MH: Mechanical Biomimetics",
     "steamId": null,
     "version": null
   },
   {
-    "author": "balistafreak",
-    "name": "Standalone Hot Spring",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Adamas",
-    "name": "Hospitality: Spa",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Orion",
-    "name": "Cash Register",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Adamas",
-    "name": "Hospitality: Storefront",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Turnovus",
-    "name": "Integrated Genes",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Orion",
-    "name": "Gastronomy",
+    "author": "Killathon",
+    "name": "MH: Military Tiers",
     "steamId": null,
     "version": null
   },
@@ -186,8 +96,8 @@
     "version": null
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool",
+    "author": "zhrock11",
+    "name": "Stackable Chunks [1.4+]",
     "steamId": null,
     "version": null
   },
@@ -210,8 +120,8 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Armour Expanded",
+    "author": "Oskar Potocki, xrushha and SmashPhil",
+    "name": "Vanilla Apparel Expanded — Accessories",
     "steamId": null,
     "version": null
   },
@@ -228,8 +138,20 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Books Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Sarg Bjornson, Chowder and Trahspanda",
     "name": "Vanilla Brewing Expanded - Coffees and Teas",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded",
     "steamId": null,
     "version": null
   },
@@ -246,6 +168,42 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Coilguns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Laser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Quickdraw",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Luizi and xrushha",
+    "name": "Vanilla Weapons Expanded - Frontier",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki and Kikohi",
     "name": "Vanilla Expanded - Ideology Patches",
     "steamId": null,
@@ -254,6 +212,12 @@
   {
     "author": "Oskar Potocki and Kikohi",
     "name": "Vanilla Expanded - Royalty Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
     "steamId": null,
     "version": null
   },
@@ -272,6 +236,12 @@
   {
     "author": "Oskar Potocki and Trunken",
     "name": "Vanilla Furniture Expanded - Production",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded",
     "steamId": null,
     "version": null
   },
@@ -296,36 +266,6 @@
   {
     "author": "Sarg Bjornson",
     "name": "Vanilla Genetics Expanded - More Lab Stuff",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Taranchuk and xrushha",
-    "name": "Vanilla Ideology Expanded - Anima Theme",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson, Taranchuk and Reann Shepard",
-    "name": "Vanilla Ideology Expanded - Dryads",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and xrushha",
-    "name": "Vanilla Ideology Expanded - Hats and Rags",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Ideology Expanded - Icons and Symbols",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and legodude17",
-    "name": "Vanilla Ideology Expanded - Relics and Artifacts",
     "steamId": null,
     "version": null
   },
@@ -366,30 +306,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Races Expanded - Custom Icons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Races Expanded - Waster",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Storytellers Expanded - Empress Evil",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson",
-    "name": "Vanilla Textures Expanded - Variations",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Reel",
     "name": "Reel's Facial Animation Textures",
     "steamId": null,
@@ -402,14 +318,20 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
-    "name": "Vanilla Vehicles Expanded - Tier 3",
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Grenades",
     "steamId": null,
     "version": null
   },
   {
     "author": "Oskar Potocki and SmashPhil",
     "name": "Vanilla Weapons Expanded - Makeshift",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Non-Lethal",
     "steamId": null,
     "version": null
   },
